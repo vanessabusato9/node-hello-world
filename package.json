@@ -1,12 +1,12 @@
 {
-  "name": "hello-world",
+  "name": "intro",
   "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
-  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    "start": "node hello.js",
+    "dev": "node --watch hello.js",
+    "calc": "node calc.js"
+  },
+  "author": "Vanessa",
+  "license": "ISC",
+  "description": ""
 }
