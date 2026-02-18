@@ -2,9 +2,8 @@
   "name": "intro",
   "version": "1.0.0",
   "scripts": {
-    "start": "node hello.js",
-    "dev": "node --watch hello.js",
-    "calc": "node calc.js"
+    "start": "node index.js",
+    "dev": "node --watch index.js"
   },
   "author": "Vanessa",
   "license": "ISC",
